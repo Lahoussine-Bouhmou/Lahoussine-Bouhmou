@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Lahoussine Bouhmou!
 
-<!--
-**Lahoussine-Bouhmou/Lahoussine-Bouhmou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student at École des Mines de Saint-Étienne, passionate about technology, software development, and data science. I'm continuously learning and excited to contribute to open-source projects while building my skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science, focusing on software engineering and data science.
+- 🌱 Currently improving my skills in Python, JavaScript, and machine learning.
+- 👯 Looking to collaborate on interesting projects in web development and AI.
+- 📫 How to reach me: [lahessine.bouhmou@gmail.com](mailto:lahessine.bouhmou@gmail.com).
+
+## Skills & Technologies
+
+- **Languages**: Python, JavaScript, C
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools & Platforms**: Git, GitHub, VS Code
+- **Interests**: Web Development, Data Science, Artificial Intelligence
